@@ -1,0 +1,31 @@
+.red{
+    color: blue;
+    background-color: rgb(171, 239, 241);
+}
+
+.bg{
+    background-color: rgb(226, 226, 247);
+}
+
+.nav{
+   background-color: rgb(217, 243, 146);
+   
+}
+
+.selection {
+background-image: url(anime.jpg);
+color: white;
+background-size: cover;
+background-repeat: no-repeat;
+text-align: center;
+}
+
+.selection h2{
+    font-weight: bolder;
+
+}
+
+
+.footer {
+    color: rgb(94, 80, 6);
+}
